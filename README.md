@@ -15,7 +15,7 @@ picking a better marketing strategy to generate better results and attract more 
 
 ## Business Task:
 
-To analyse smart device usage data to gain insight into how consumers use non-Bellabeat smart devices. Based on insights, select one Bellabeat product which makes the user more inclusive to use and stay healthy. Make high-level recommendations for how these trends or insights help Bellabeat marketing team craft new strategies.
+To analyse smart device usage data to gain insight into how consumers use Bellabeat smart devices. Based on insights, select one Bellabeat product which makes the user more inclusive to use and stay healthy. Make high-level recommendations for how these trends or insights help Bellabeat marketing team craft new strategies.
 
 
 ## Business Objective:
