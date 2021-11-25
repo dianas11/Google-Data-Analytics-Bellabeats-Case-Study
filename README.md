@@ -31,3 +31,7 @@ To analyse smart device usage data to gain insight into how consumers use Bellab
 * Documentation of any cleaning or manipulation done with the raw datasets.
 * A summary of analysis from data.
 * Supporting visualizations and key findings.
+
+You can find the detailed analysis in this [medium](https://dianasatapathy.medium.com/google-capstone-project-2-how-can-bellabeat-a-wellness-tech-company-make-a-hit-ad63bb6209a5) article.
+
+Happy reading.
